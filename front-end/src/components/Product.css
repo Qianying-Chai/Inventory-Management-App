@@ -1,0 +1,23 @@
+.form-group{
+text-align: left
+}
+
+.form-label{
+    margin: 1rem .2rem .1rem
+}
+
+.button-text-color{
+    color:aliceblue!important;
+}
+
+
+.btn-delete {
+    background-color: red !important;
+    color: white !important;;
+    border: none;
+  }
+  
+  .btn-delete:hover {
+    background-color: darkred !important;;
+  }
+  
